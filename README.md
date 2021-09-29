@@ -1,4 +1,4 @@
-# Integrantes da mesa de trabalho - Sala 2
+# Integrantes da mesa de trabalho - Sala 1
 
 1. André
 2. Dafne
